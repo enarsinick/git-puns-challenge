@@ -1,2 +1,1 @@
 # git-puns-challenge
-Hello
